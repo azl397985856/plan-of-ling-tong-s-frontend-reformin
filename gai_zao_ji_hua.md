@@ -18,7 +18,7 @@
 
 3.快递单实体
   ```js
-  print(t)
+  print()
   preview()
   ```
 4.发货单实体
