@@ -16,7 +16,7 @@
   +getMerginTradesByOrder()
   -updateAddress()
   +merge()
-  +split()
+  +split()   
   ```
 
 3.快递单实体
