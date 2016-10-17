@@ -1,3 +1,3 @@
-# My Awesome Book
+# 灵通前端改造计划
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+主要是一些现阶段需要准备的东西，以及任务列表和基本的数据结构和实现思路整理。
