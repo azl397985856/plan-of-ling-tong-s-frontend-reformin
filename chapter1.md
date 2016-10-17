@@ -1,3 +1,10 @@
 # 准备工作
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+###一.全部接口约定
+>由于项目后端已经完成，只是前端改造。所以全部的后端接口都是有的。因此实际的接口列表是可以得到的，同时也是必要的
+
+output: api list
+###二.业务逻辑
+>部分业务逻辑不是很清楚。这些逻辑如果不通读源码很难发现（比如韵达特殊逻辑）。这些业务逻辑希望可以有不通读源码就可以知晓的文件。
+
+output: prd
