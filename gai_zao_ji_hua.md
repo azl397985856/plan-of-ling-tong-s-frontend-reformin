@@ -13,11 +13,12 @@
   var printItems
   var joinedNum
   var unjoinedNum
+  getMerginTradesByOrder()
   ```
 
 3.快递单实体
   ```js
-  print()
+  print(t)
   preview()
   ```
 4.发货单实体
